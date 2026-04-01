@@ -3,7 +3,6 @@
 ## 📌 Sobre o projeto
 Este projeto é uma página web desenvolvida como tributo à banda **Legião Urbana**, um dos maiores nomes do rock brasileiro.  
 A página apresenta informações sobre a história da banda, curiosidades, citações marcantes e imagens de destaque.  
-Foi desenvolvido para fins educacionais e de portfólio.
 
 ________________________________________
 🎯 Objetivo  
